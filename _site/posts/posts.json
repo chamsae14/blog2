@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-05-08-kakakka/",
+    "title": "kakakka",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-05-08",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-05-08T14:29:39+00:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to SKKU biohrs",
     "description": "Welcome to our new blog, SKKU biohrs. We hope you enjoy \nreading what we have to say!",
@@ -13,7 +30,7 @@
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-05-08T14:20:44+00:00",
-    "input_file": "welcome.knit.md"
+    "last_modified": "2022-05-08T14:23:59+00:00",
+    "input_file": {}
   }
 ]

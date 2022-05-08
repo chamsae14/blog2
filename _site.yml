@@ -2,7 +2,7 @@ name: "."
 title: "SKKU_JW"
 description: |
   SKKU biohrs
-output_dir: "public"
+output_dir: "_site"
 navbar:
   right:
     - text: "Home"
